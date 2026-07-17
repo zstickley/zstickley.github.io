@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Educational Psychology, 2022
+* M.Ed. Educational Psychology, 2020
+* Business Analytics Graduate Certificate, 2019
+* B.S. Psycology, 2016
+* A.A. General Academics, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Research Analyst, February 2026 - Present
+  * Owens Institute for Behavioral Research, University of Georgia
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Senior Research Scientist, January 2023 - February 2026
+  * Yhat Enterprises, LLC.
 
+* Graduate Research Assistant, December 2019 - December 2022
+  * College of Education, Texas Tech University
+ 
+* Research Analyst, December 2019 - August 2021
+  * Yhat Enterprises, LLC.
+
+* Graduate Research Assistant, July 2017 - December 2019
+  * Institute for Measurement, Methods, Analysis, & Policy
+  * Texas Tech University
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,7 +52,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
