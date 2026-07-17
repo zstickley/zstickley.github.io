@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV available upon request.
+[Stickley CV - Updated 2026-07-16](https://github.com/zstickley/zstickley.github.io/blob/master/files/Stickley-CV.pdf)
 
